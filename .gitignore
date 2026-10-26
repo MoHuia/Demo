@@ -1,0 +1,46 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Ee]xported[Oo]bj/
+/[Gg]enerated[Gg]radle[Pp]roject/
+/.plastic/
+/.collab/
+
+# Local logs, crash reports and exported builds
+*.log
+/sysinfo.txt
+/crashlytics-build.properties
+/*.apk
+/*.aab
+/*.unitypackage
+
+# IDE and generated project files
+/.idea/
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+*.pdb
+*.mdb
+*.DotSettings.user
+/.history/
+
+# Local operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
