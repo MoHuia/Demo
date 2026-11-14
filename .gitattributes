@@ -1,0 +1,5 @@
+Assets/Arts/ZZZ/Lycaon/Animations/Combat/Lycaon_Attack_Normal_02_End.anim filter=lfs diff=lfs merge=lfs -text
+Assets/Arts/ZZZ/Lycaon/Animations/Combat/Lycaon_Attack_Normal_03_End.anim filter=lfs diff=lfs merge=lfs -text
+Assets/Arts/ZZZ/Lycaon/Animations/Hit/Lycaon_HitFly_Back.anim filter=lfs diff=lfs merge=lfs -text
+Assets/Arts/ZZZ/Lycaon/Animations/Hit/Lycaon_HitFly_Front.anim filter=lfs diff=lfs merge=lfs -text
+Assets/Arts/ZZZ/Lycaon/Animations/Locomotion/Lycaon_Locomotion_Idle.anim filter=lfs diff=lfs merge=lfs -text
